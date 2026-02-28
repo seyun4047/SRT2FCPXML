@@ -1,0 +1,2 @@
+# SRT2FCPXML
+SRT to FCPXML converter
