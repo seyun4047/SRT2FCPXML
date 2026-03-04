@@ -14,5 +14,5 @@ python3 srt2fcpxml.py srt_filename.srt fcpxml_filename.fcpxml framerate finalcut
 # mutzin.motiv & mutzin_title.fcpbundle
 
 # Execute 
-python3 srt2fcpxml2box.py srt_filename.srt fcpxml_filename.fcpxml 60 finalcut_pro_project_name
+python3 srt2fcpxml2box.py srt_filename.srt fcpxml_filename.fcpxml framerate finalcut_pro_project_name
 ```
