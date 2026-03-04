@@ -5,7 +5,7 @@ SRT to FCPXML converter
 ## Convert with basic title style
 ```bash
 # Execute
-python3 srt2fcpxml.py srt_filename.srt fcpxml_filename.fcpxml 60 finalcut_pro_project_name
+python3 srt2fcpxml.py srt_filename.srt fcpxml_filename.fcpxml framerate finalcut_pro_project_name
 ```
 
 # If you want to make your title on the box !
